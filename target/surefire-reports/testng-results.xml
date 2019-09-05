@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42077" started-at="2019-09-04T19:36:14Z" finished-at="2019-09-04T19:36:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42077" started-at="2019-09-04T19:36:14Z" finished-at="2019-09-04T19:36:56Z">
+      <class name="com.ing.testcases.AppHomeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ing.testcases.AppHomeTest@63192798]" name="setup" is-config="true" duration-ms="34114" started-at="2019-09-05T01:06:14Z" finished-at="2019-09-05T01:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.ing.testcases.AppHomeTest@63192798]" name="setExtent" is-config="true" duration-ms="366" started-at="2019-09-05T01:06:48Z" finished-at="2019-09-05T01:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="scrollDown()[pri:1, instance:com.ing.testcases.AppHomeTest@63192798]" name="scrollDown" duration-ms="5035" started-at="2019-09-05T01:06:49Z" description="scrolldown and write data into Notepad" finished-at="2019-09-05T01:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.ing.testcases.AppHomeTest@63192798]" name="tearDown" is-config="true" duration-ms="9" started-at="2019-09-05T01:06:54Z" finished-at="2019-09-05T01:06:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scrollDown status=SUCCESS method=AppHomeTest.scrollDown()[pri:1, instance:com.ing.testcases.AppHomeTest@63192798] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.ing.testcases.AppHomeTest@63192798]" name="endReport" is-config="true" duration-ms="1449" started-at="2019-09-05T01:06:54Z" finished-at="2019-09-05T01:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.ing.testcases.AppHomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,8 @@
+com\ing\util\Xls_Reader.class
+com\ing\util\Constants.class
+com\ing\base\BaseClass.class
+com\ing\pages\AppHomePage.class
+com\ing\pages\personalBankingPage.class
+com\ing\util\WebEventListenr.class
+com\ing\reportListeners\AllureReportListener.class
+com\ing\util\UtilClass.class
